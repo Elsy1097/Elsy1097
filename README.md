@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Elsy1097
-- 👀 I’m interested in programming and data visulaisations
+- 👋 Hi, I’m Kaviya Mahendran @ Elsy
+- 👀 I’m interested in data manupulations and visulaisations
 - 🌱 I’m currently learning python and data analytics
 - 📫 How to reach me my email- kaviyamahen@gmail.com
 
